@@ -13,3 +13,5 @@
 *.toc
 *.pdf
 *.gz
+*.fls
+*.*latexmk
